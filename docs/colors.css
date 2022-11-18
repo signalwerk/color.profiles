@@ -1,0 +1,959 @@
+.has-background-riso-bisque {
+  background-color: #f2cdcf !important;
+}
+
+.has-background-riso-bisque-light {
+  background-color: #fbefef !important;
+}
+
+.has-background-riso-bisque-dark {
+  background-color: #751f23 !important;
+}
+
+.has-background-riso-tomato {
+  background-color: #d2515e !important;
+}
+
+.has-background-riso-tomato-light {
+  background-color: #fbeff0 !important;
+}
+
+.has-background-riso-tomato-dark {
+  background-color: #b22e3b !important;
+}
+
+.has-background-riso-mahogany {
+  background-color: #8e595a !important;
+}
+
+.has-background-riso-mahogany-light {
+  background-color: #f7f2f3 !important;
+}
+
+.has-background-riso-mahogany-dark {
+  background-color: #935c5d !important;
+}
+
+.has-background-riso-lightteal {
+  background-color: #009da5 !important;
+}
+
+.has-background-riso-lightteal-light {
+  background-color: #ebfeff !important;
+}
+
+.has-background-riso-lightteal-dark {
+  background-color: #00c2cc !important;
+}
+
+.has-background-riso-black {
+  background-color: #000 !important;
+}
+
+.has-background-riso-black-light {
+  background-color: #f5f5f5 !important;
+}
+
+.has-background-riso-black-dark {
+  background-color: #919191 !important;
+}
+
+.has-background-riso-turquoise {
+  background-color: #00aa93 !important;
+}
+
+.has-background-riso-turquoise-light {
+  background-color: #ebfffc !important;
+}
+
+.has-background-riso-turquoise-dark {
+  background-color: #00c2a8 !important;
+}
+
+.has-background-riso-wine {
+  background-color: #914e72 !important;
+}
+
+.has-background-riso-wine-light {
+  background-color: #f8f2f5 !important;
+}
+
+.has-background-riso-wine-dark {
+  background-color: #9f567d !important;
+}
+
+.has-background-riso-brightolivegreen {
+  background-color: #b49f29 !important;
+}
+
+.has-background-riso-brightolivegreen-light {
+  background-color: #fbf9ee !important;
+}
+
+.has-background-riso-brightolivegreen-dark {
+  background-color: #918021 !important;
+}
+
+.has-background-riso-violet {
+  background-color: #9d7ad2 !important;
+}
+
+.has-background-riso-violet-light {
+  background-color: #f4f0fa !important;
+}
+
+.has-background-riso-violet-dark {
+  background-color: #5c3498 !important;
+}
+
+.has-background-riso-pumpkin {
+  background-color: #ff6f4c !important;
+}
+
+.has-background-riso-pumpkin-light {
+  background-color: #ffefeb !important;
+}
+
+.has-background-riso-pumpkin-dark {
+  background-color: #bd2500 !important;
+}
+
+.has-background-riso-brightgold {
+  background-color: #ba8032 !important;
+}
+
+.has-background-riso-brightgold-light {
+  background-color: #fbf6ef !important;
+}
+
+.has-background-riso-brightgold-dark {
+  background-color: #a16f2b !important;
+}
+
+.has-background-riso-apricot {
+  background-color: #f6a04d !important;
+}
+
+.has-background-riso-apricot-light {
+  background-color: #fef5ec !important;
+}
+
+.has-background-riso-apricot-dark {
+  background-color: #924b07 !important;
+}
+
+.has-background-riso-fluorescentred {
+  background-color: #ff4c65 !important;
+}
+
+.has-background-riso-fluorescentred-light {
+  background-color: #ffebed !important;
+}
+
+.has-background-riso-fluorescentred-dark {
+  background-color: #d1001d !important;
+}
+
+.has-background-riso-grass {
+  background-color: #397e58 !important;
+}
+
+.has-background-riso-grass-light {
+  background-color: #f1f9f4 !important;
+}
+
+.has-background-riso-grass-dark {
+  background-color: #479e6e !important;
+}
+
+.has-background-riso-smokyteal {
+  background-color: #5f8289 !important;
+}
+
+.has-background-riso-smokyteal-light {
+  background-color: #f3f6f7 !important;
+}
+
+.has-background-riso-smokyteal-dark {
+  background-color: #5a7b82 !important;
+}
+
+.has-background-riso-marinered {
+  background-color: #d2515e !important;
+}
+
+.has-background-riso-marinered-light {
+  background-color: #fbeff0 !important;
+}
+
+.has-background-riso-marinered-dark {
+  background-color: #b22e3b !important;
+}
+
+.has-background-riso-steel {
+  background-color: #375e77 !important;
+}
+
+.has-background-riso-steel-light {
+  background-color: #f1f6f9 !important;
+}
+
+.has-background-riso-steel-dark {
+  background-color: #4f87ab !important;
+}
+
+.has-background-riso-metallicgold {
+  background-color: #ac936e !important;
+}
+
+.has-background-riso-metallicgold-light {
+  background-color: #f8f5f2 !important;
+}
+
+.has-background-riso-metallicgold-dark {
+  background-color: #786345 !important;
+}
+
+.has-background-riso-mint {
+  background-color: #82d8d5 !important;
+}
+
+.has-background-riso-mint-light {
+  background-color: #effafa !important;
+}
+
+.has-background-riso-mint-dark {
+  background-color: #23716e !important;
+}
+
+.has-background-riso-sunflower {
+  background-color: #ffb511 !important;
+}
+
+.has-background-riso-sunflower-light {
+  background-color: #fff9eb !important;
+}
+
+.has-background-riso-sunflower-dark {
+  background-color: #946600 !important;
+}
+
+.has-background-riso-pine {
+  background-color: #237e74 !important;
+}
+
+.has-background-riso-pine-light {
+  background-color: #effbf9 !important;
+}
+
+.has-background-riso-pine-dark {
+  background-color: #33b8a9 !important;
+}
+
+.has-background-riso-scarlet {
+  background-color: #f65058 !important;
+}
+
+.has-background-riso-scarlet-light {
+  background-color: #feecec !important;
+}
+
+.has-background-riso-scarlet-dark {
+  background-color: #c70a13 !important;
+}
+
+.has-background-riso-midnight {
+  background-color: #435060 !important;
+}
+
+.has-background-riso-midnight-light {
+  background-color: #f3f5f7 !important;
+}
+
+.has-background-riso-midnight-dark {
+  background-color: #6c8098 !important;
+}
+
+.has-background-riso-fluorescentgreen {
+  background-color: #44d62c !important;
+}
+
+.has-background-riso-fluorescentgreen-light {
+  background-color: #f0fcee !important;
+}
+
+.has-background-riso-fluorescentgreen-dark {
+  background-color: #267c18 !important;
+}
+
+.has-background-riso-crimson {
+  background-color: #e45d50 !important;
+}
+
+.has-background-riso-crimson-light {
+  background-color: #fcefed !important;
+}
+
+.has-background-riso-crimson-dark {
+  background-color: #ba2a1d !important;
+}
+
+.has-background-riso-red {
+  background-color: #ff665e !important;
+}
+
+.has-background-riso-red-light {
+  background-color: #ffeceb !important;
+}
+
+.has-background-riso-red-dark {
+  background-color: #c20a00 !important;
+}
+
+.has-background-riso-cranberry {
+  background-color: #d1517a !important;
+}
+
+.has-background-riso-cranberry-light {
+  background-color: #fbeff3 !important;
+}
+
+.has-background-riso-cranberry-dark {
+  background-color: #b12f59 !important;
+}
+
+.has-background-riso-lightmauve {
+  background-color: #e6b5c9 !important;
+}
+
+.has-background-riso-lightmauve-light {
+  background-color: #faf0f4 !important;
+}
+
+.has-background-riso-lightmauve-dark {
+  background-color: #6f2543 !important;
+}
+
+.has-background-riso-moss {
+  background-color: #68724d !important;
+}
+
+.has-background-riso-moss-light {
+  background-color: #f6f7f3 !important;
+}
+
+.has-background-riso-moss-dark {
+  background-color: #808c5f !important;
+}
+
+.has-background-riso-raisin {
+  background-color: #775d7a !important;
+}
+
+.has-background-riso-raisin-light {
+  background-color: #f6f3f6 !important;
+}
+
+.has-background-riso-raisin-dark {
+  background-color: #856888 !important;
+}
+
+.has-background-riso-skyblue {
+  background-color: #4982cf !important;
+}
+
+.has-background-riso-skyblue-light {
+  background-color: #eff4fb !important;
+}
+
+.has-background-riso-skyblue-dark {
+  background-color: #2d62a9 !important;
+}
+
+.has-background-riso-indigo {
+  background-color: #484d7a !important;
+}
+
+.has-background-riso-indigo-light {
+  background-color: #f2f3f7 !important;
+}
+
+.has-background-riso-indigo-dark {
+  background-color: #6268a2 !important;
+}
+
+.has-background-riso-brick {
+  background-color: #a75154 !important;
+}
+
+.has-background-riso-brick-light {
+  background-color: #f8f1f2 !important;
+}
+
+.has-background-riso-brick-dark {
+  background-color: #a14e51 !important;
+}
+
+.has-background-riso-white {
+  background-color: #fff !important;
+}
+
+.has-background-riso-white-light {
+  background-color: #fff !important;
+}
+
+.has-background-riso-white-dark {
+  background-color: #4a4a4a !important;
+}
+
+.has-background-riso-huntergreen {
+  background-color: #407060 !important;
+}
+
+.has-background-riso-huntergreen-light {
+  background-color: #f2f8f6 !important;
+}
+
+.has-background-riso-huntergreen-dark {
+  background-color: #579983 !important;
+}
+
+.has-background-riso-risofederalblue {
+  background-color: #3d5588 !important;
+}
+
+.has-background-riso-risofederalblue-light {
+  background-color: #f1f3f9 !important;
+}
+
+.has-background-riso-risofederalblue-dark {
+  background-color: #4f6eb0 !important;
+}
+
+.has-background-riso-spruce {
+  background-color: #4a635d !important;
+}
+
+.has-background-riso-spruce-light {
+  background-color: #f3f6f6 !important;
+}
+
+.has-background-riso-spruce-dark {
+  background-color: #6b8f86 !important;
+}
+
+.has-background-riso-lagoon {
+  background-color: #2f6165 !important;
+}
+
+.has-background-riso-lagoon-light {
+  background-color: #f1f8f9 !important;
+}
+
+.has-background-riso-lagoon-dark {
+  background-color: #4fa4ab !important;
+}
+
+.has-background-riso-clearmedium {
+  background-color: #f2f2f2 !important;
+}
+
+.has-background-riso-clearmedium-light {
+  background-color: #f5f5f5 !important;
+}
+
+.has-background-riso-clearmedium-dark {
+  background-color: #4a4a4a !important;
+}
+
+.has-background-riso-flatgold {
+  background-color: #bb8b41 !important;
+}
+
+.has-background-riso-flatgold-light {
+  background-color: #faf6f0 !important;
+}
+
+.has-background-riso-flatgold-dark {
+  background-color: #906b32 !important;
+}
+
+.has-background-riso-kellygreen {
+  background-color: #67b346 !important;
+}
+
+.has-background-riso-kellygreen-light {
+  background-color: #f3f9f0 !important;
+}
+
+.has-background-riso-kellygreen-dark {
+  background-color: #4a8032 !important;
+}
+
+.has-background-riso-brown {
+  background-color: #925f52 !important;
+}
+
+.has-background-riso-brown-light {
+  background-color: #f8f3f2 !important;
+}
+
+.has-background-riso-brown-dark {
+  background-color: #966254 !important;
+}
+
+.has-background-riso-burgundy {
+  background-color: #914e72 !important;
+}
+
+.has-background-riso-burgundy-light {
+  background-color: #f8f2f5 !important;
+}
+
+.has-background-riso-burgundy-dark {
+  background-color: #9f567d !important;
+}
+
+.has-background-riso-forest {
+  background-color: #516e5a !important;
+}
+
+.has-background-riso-forest-light {
+  background-color: #f3f6f4 !important;
+}
+
+.has-background-riso-forest-dark {
+  background-color: #668a71 !important;
+}
+
+.has-background-riso-yellow {
+  background-color: #ffe800 !important;
+}
+
+.has-background-riso-yellow-light {
+  background-color: #fffdeb !important;
+}
+
+.has-background-riso-yellow-dark {
+  background-color: #948700 !important;
+}
+
+.has-background-riso-blue {
+  background-color: #0078bf !important;
+}
+
+.has-background-riso-blue-light {
+  background-color: #ebf7ff !important;
+}
+
+.has-background-riso-blue-dark {
+  background-color: #0090e6 !important;
+}
+
+.has-background-riso-emerald {
+  background-color: #19975d !important;
+}
+
+.has-background-riso-emerald-light {
+  background-color: #edfcf5 !important;
+}
+
+.has-background-riso-emerald-dark {
+  background-color: #1eb871 !important;
+}
+
+.has-background-riso-copper {
+  background-color: #bd6439 !important;
+}
+
+.has-background-riso-copper-light {
+  background-color: #faf3ef !important;
+}
+
+.has-background-riso-copper-dark {
+  background-color: #ac5b34 !important;
+}
+
+.has-background-riso-mediumblue {
+  background-color: #3255a4 !important;
+}
+
+.has-background-riso-mediumblue-light {
+  background-color: #eff3fa !important;
+}
+
+.has-background-riso-mediumblue-dark {
+  background-color: #3c65c3 !important;
+}
+
+.has-background-riso-plum {
+  background-color: #845991 !important;
+}
+
+.has-background-riso-plum-light {
+  background-color: #f6f2f7 !important;
+}
+
+.has-background-riso-plum-dark {
+  background-color: #875b95 !important;
+}
+
+.has-background-riso-charcoal {
+  background-color: #70747c !important;
+}
+
+.has-background-riso-charcoal-light {
+  background-color: #f4f5f5 !important;
+}
+
+.has-background-riso-charcoal-dark {
+  background-color: #6d7179 !important;
+}
+
+.has-background-riso-slate {
+  background-color: #5e695e !important;
+}
+
+.has-background-riso-slate-light {
+  background-color: #f4f5f4 !important;
+}
+
+.has-background-riso-slate-dark {
+  background-color: #717e71 !important;
+}
+
+.has-background-riso-darkmauve {
+  background-color: #bd8ca6 !important;
+}
+
+.has-background-riso-darkmauve-light {
+  background-color: #f8f2f5 !important;
+}
+
+.has-background-riso-darkmauve-dark {
+  background-color: #784560 !important;
+}
+
+.has-background-riso-grape {
+  background-color: #6c5d80 !important;
+}
+
+.has-background-riso-grape-light {
+  background-color: #f5f3f6 !important;
+}
+
+.has-background-riso-grape-dark {
+  background-color: #78678e !important;
+}
+
+.has-background-riso-fluorescentyellow {
+  background-color: #ffe916 !important;
+}
+
+.has-background-riso-fluorescentyellow-light {
+  background-color: #fffdeb !important;
+}
+
+.has-background-riso-fluorescentyellow-dark {
+  background-color: #948600 !important;
+}
+
+.has-background-riso-coral {
+  background-color: #ff8e91 !important;
+}
+
+.has-background-riso-coral-light {
+  background-color: #ffebeb !important;
+}
+
+.has-background-riso-coral-dark {
+  background-color: #a30004 !important;
+}
+
+.has-background-riso-seafoam {
+  background-color: #62c2b1 !important;
+}
+
+.has-background-riso-seafoam-light {
+  background-color: #f0f9f8 !important;
+}
+
+.has-background-riso-seafoam-dark {
+  background-color: #2c7266 !important;
+}
+
+.has-background-riso-brightred {
+  background-color: #f15060 !important;
+}
+
+.has-background-riso-brightred-light {
+  background-color: #fdecee !important;
+}
+
+.has-background-riso-brightred-dark {
+  background-color: #c61022 !important;
+}
+
+.has-background-riso-lightgray {
+  background-color: #88898a !important;
+}
+
+.has-background-riso-lightgray-light {
+  background-color: #f5f5f5 !important;
+}
+
+.has-background-riso-lightgray-dark {
+  background-color: #656667 !important;
+}
+
+.has-background-riso-aqua {
+  background-color: #5ec8e5 !important;
+}
+
+.has-background-riso-aqua-light {
+  background-color: #edf9fc !important;
+}
+
+.has-background-riso-aqua-dark {
+  background-color: #15687f !important;
+}
+
+.has-background-riso-gray {
+  background-color: #928d88 !important;
+}
+
+.has-background-riso-gray-light {
+  background-color: #f5f5f4 !important;
+}
+
+.has-background-riso-gray-dark {
+  background-color: #68635f !important;
+}
+
+.has-background-riso-granite {
+  background-color: #a5aaa8 !important;
+}
+
+.has-background-riso-granite-light {
+  background-color: #f5f5f5 !important;
+}
+
+.has-background-riso-granite-dark {
+  background-color: #525755 !important;
+}
+
+.has-background-riso-fluorescentorange {
+  background-color: #ff7477 !important;
+}
+
+.has-background-riso-fluorescentorange-light {
+  background-color: #ffebeb !important;
+}
+
+.has-background-riso-fluorescentorange-dark {
+  background-color: #b80004 !important;
+}
+
+.has-background-riso-maroon {
+  background-color: #9e4c6e !important;
+}
+
+.has-background-riso-maroon-light {
+  background-color: #f8f1f4 !important;
+}
+
+.has-background-riso-maroon-dark {
+  background-color: #a24e71 !important;
+}
+
+.has-background-riso-paprika {
+  background-color: #ee7f4b !important;
+}
+
+.has-background-riso-paprika-light {
+  background-color: #fdf2ec !important;
+}
+
+.has-background-riso-paprika-dark {
+  background-color: #a84010 !important;
+}
+
+.has-background-riso-seablue {
+  background-color: #0074a2 !important;
+}
+
+.has-background-riso-seablue-light {
+  background-color: #ebf9ff !important;
+}
+
+.has-background-riso-seablue-dark {
+  background-color: #00acf0 !important;
+}
+
+.has-background-riso-teal {
+  background-color: #00838a !important;
+}
+
+.has-background-riso-teal-light {
+  background-color: #ebfeff !important;
+}
+
+.has-background-riso-teal-dark {
+  background-color: #00dae6 !important;
+}
+
+.has-background-riso-lake {
+  background-color: #235ba8 !important;
+}
+
+.has-background-riso-lake-light {
+  background-color: #eef4fb !important;
+}
+
+.has-background-riso-lake-dark {
+  background-color: #2b70cf !important;
+}
+
+.has-background-riso-lightlime {
+  background-color: #e3ed55 !important;
+}
+
+.has-background-riso-lightlime-light {
+  background-color: #fcfded !important;
+}
+
+.has-background-riso-lightlime-dark {
+  background-color: #7e860e !important;
+}
+
+.has-background-riso-fluorescentpink {
+  background-color: #ff48b0 !important;
+}
+
+.has-background-riso-fluorescentpink-light {
+  background-color: #ffebf6 !important;
+}
+
+.has-background-riso-fluorescentpink-dark {
+  background-color: #cc0074 !important;
+}
+
+.has-background-riso-green {
+  background-color: #00a95c !important;
+}
+
+.has-background-riso-green-light {
+  background-color: #ebfff6 !important;
+}
+
+.has-background-riso-green-dark {
+  background-color: #00c76c !important;
+}
+
+.has-background-riso-cornflower {
+  background-color: #62a8e5 !important;
+}
+
+.has-background-riso-cornflower-light {
+  background-color: #edf5fc !important;
+}
+
+.has-background-riso-cornflower-dark {
+  background-color: #195e99 !important;
+}
+
+.has-background-riso-bubblegum {
+  background-color: #f984ca !important;
+}
+
+.has-background-riso-bubblegum-light {
+  background-color: #feecf7 !important;
+}
+
+.has-background-riso-bubblegum-dark {
+  background-color: #a00863 !important;
+}
+
+.has-background-riso-orchid {
+  background-color: #aa60bf !important;
+}
+
+.has-background-riso-orchid-light {
+  background-color: #f7f0f9 !important;
+}
+
+.has-background-riso-orchid-dark {
+  background-color: #883f9c !important;
+}
+
+.has-background-riso-raspberryred {
+  background-color: #d1517a !important;
+}
+
+.has-background-riso-raspberryred-light {
+  background-color: #fbeff3 !important;
+}
+
+.has-background-riso-raspberryred-dark {
+  background-color: #b12f59 !important;
+}
+
+.has-background-riso-purple {
+  background-color: #765ba7 !important;
+}
+
+.has-background-riso-purple-light {
+  background-color: #f4f2f8 !important;
+}
+
+.has-background-riso-purple-dark {
+  background-color: #6d549c !important;
+}
+
+.has-background-riso-ivy {
+  background-color: #169b62 !important;
+}
+
+.has-background-riso-ivy-light {
+  background-color: #edfcf6 !important;
+}
+
+.has-background-riso-ivy-dark {
+  background-color: #1ab774 !important;
+}
+
+.has-background-riso-melon {
+  background-color: #ffae3b !important;
+}
+
+.has-background-riso-melon-light {
+  background-color: #fff7eb !important;
+}
+
+.has-background-riso-melon-dark {
+  background-color: #945700 !important;
+}
+
+.has-background-riso-orange {
+  background-color: #ff6c2f !important;
+}
+
+.has-background-riso-orange-light {
+  background-color: #fff1eb !important;
+}
+
+.has-background-riso-orange-dark {
+  background-color: #c23900 !important;
+}
+
+.has-background-riso-mist {
+  background-color: #d5e4c0 !important;
+}
+
+.has-background-riso-mist-light {
+  background-color: #f5f9f1 !important;
+}
+
+.has-background-riso-mist-dark {
+  background-color: #4f682c !important;
+}

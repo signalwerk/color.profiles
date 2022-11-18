@@ -1,0 +1,57 @@
+figure {
+  margin: 0;
+  padding: 0;
+}
+.button {
+  display: none;
+}
+.image {
+  display: inline-block;
+  border-radius: 50%;
+  height: 1em;
+  width: 1em;
+  margin-right: 0.25rem;
+}
+.tag {
+  align-items: center;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  color: #4a4a4a;
+  display: inline-flex;
+  font-size: 0.75rem;
+  height: 2em;
+  justify-content: center;
+  line-height: 1.5;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  white-space: nowrap;
+  margin-left: 0.5rem;
+  border-radius: 1em;
+}
+
+.columns {
+  display: flex;
+  margin-bottom: 0.8rem;
+}
+
+.column.is-one-fifth,
+.column.is-one-fifth-tablet {
+  flex: none;
+  width: 20%;
+}
+
+.column.is-three-fifths,
+.column.is-three-fifths-tablet {
+  flex: none;
+  width: 60%;
+}
+
+.column.is-one-fifth,
+.column.is-one-fifth-tablet {
+  flex: none;
+  width: 20%;
+}
+
+.is-pulled-right {
+  float: right;
+}
